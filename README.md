@@ -20,6 +20,3 @@ Depuis cette première formation, j'ai débuté un nouveau parcours de formation
 
 Même avec des morceaux manquants, j'espère que ce dépôt saura illustrer mes premiers pas dans le développement web. Merci de prendre en compte le contexte dans lequel il a été constitué.
 
----
-
-Qu’en penses-tu ? Si tu veux ajuster certains passages ou ajouter des détails spécifiques, dis-moi ! 😏
